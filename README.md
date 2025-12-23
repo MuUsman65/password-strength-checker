@@ -32,10 +32,10 @@ Final score is clamped between 0 and 100
 
 ## Project Structure
 PasswordStrengthChecker/
-│── main.py                 # CLI entry point
-│── checker.py              # Orchestrates all rules
-│── rules.py                # Individual scoring & penalty rules
-│── common_passwords.txt    # List of common insecure passwords
+│── main.py
+│── checker.py
+│── rules.py
+│── common_passwords.txt
 │── README.md
 │── requirements.txt
 
